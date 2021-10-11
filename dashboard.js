@@ -1,3 +1,6 @@
+const username = "John Doe";
+
+$(".icon").text(username[0])
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 function profile() {
